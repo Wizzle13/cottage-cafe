@@ -3,9 +3,9 @@
   # The Amboy Cottage Cafe
   
 
-  ![Open Issues](https://img.shields.io/github/issues-raw/wizzle13/cottatecafe?style=plastic)
-  ![Closed Issues](https://img.shields.io/github/issues-closed-raw/wizzle13/cottatecafe?label=Closed%20Issues&style=plastic)
-  ![Last Commit](https://img.shields.io/github/last-commit/wizzle13/cottatecafe?style=plastic)
+  ![Open Issues](https://img.shields.io/github/issues-raw/wizzle13/cottage-cafe?style=plastic)
+  ![Closed Issues](https://img.shields.io/github/issues-closed-raw/wizzle13/cottage-cafe?label=Closed%20Issues&style=plastic)
+  ![Last Commit](https://img.shields.io/github/last-commit/wizzle13/cottage-cafe?style=plastic)
   
   ## Description
   This site is desiged for a local cafe.
@@ -26,9 +26,9 @@
   
 
   ## Links
-  GitHub Repository: https://github.com/wizzle13/cottatecafe
+  GitHub Repository: https://github.com/wizzle13/cottage-cafe
 
-  GitHub URL: https://wizzle13.github.io/cottatecafe
+  GitHub URL: https://wizzle13.github.io/cottage-cafe
 
 
 ![Made With](https://img.shields.io/badge/Made%20with-Ultimate%20README%20Generator-blue?style=plastic)
