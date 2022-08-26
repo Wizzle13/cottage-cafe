@@ -1,0 +1,55 @@
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  position: -webkit-sticky;
+  position:sticky;
+  top: 0;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+header nav ul li {
+    padding: 10px 15px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+iframe {
+    width: 450px;
+    height: 450px;
+}
+
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+
+}
+
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
+@media screen and (max-width: 768px) {
+
+}
+  
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+    header nav ul li {
+        font-size: 4.5vw;
+        
+    }
+    iframe {
+        width: 200px;
+        height: 200px;
+    }
+}
