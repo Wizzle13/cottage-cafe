@@ -3,11 +3,16 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.container {
+    border: none;
+    width: min(100% - 2rem), max(600px);
+    margin-inline: 2rem;
+}
+
 header {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  
   top: 0;
 }
 
